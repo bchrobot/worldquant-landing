@@ -37,7 +37,7 @@
 }
 
 .top-header {
-  background-image: url('../images/globe-trimmed.png'), url('../images/background-gradient.jpg');
+  background-image: url('../images/globe-trimmed-2.png'), url('../images/background-gradient.jpg');
   background-size: auto 100%, cover;
   background-position: center center, top center;
   background-repeat: no-repeat, no-repeat;
@@ -51,7 +51,7 @@
 }
 
 .top-header img {
-  margin-top: 80px;
+  margin-top: 35px;
 }
 
 .top-header.detail-page img {
@@ -64,9 +64,9 @@
 }
 
 .top-header p {
-  margin: 190px 0;
-  font-size: 46px;
-  line-height: 54px;
+  margin: 100px 0;
+  font-size: 42px;
+  line-height: 58px;
 }
 
 .sample-back-link {
@@ -74,8 +74,8 @@
 }
 
 .bottom-header {
-  padding-top: 75px;
-  padding-bottom: 75px;
+  padding-top: 35px;
+  padding-bottom: 35px;
 }
 
 .bottom-header p {
@@ -85,13 +85,13 @@
 }
 
 .worldquant-footer {
-  margin-top: 2em;
+  margin-top: 40px;
   background-color: #000000;
 }
 
 .footer-wrapper {
-  padding-top: 75px;
-  padding-bottom: 75px;
+  padding-top: 35px;
+  padding-bottom: 35px;
 }
 
 .worldquant-footer p {
@@ -105,7 +105,7 @@
 
 @media screen and (max-width: 768px) {
   .top-header img {
-    margin-top: 35px;
+    margin-top: 20px;
   }
   .world-quant-sample-body .top-header img {
     margin-top: 35px;
@@ -113,16 +113,16 @@
   }
   .top-header p {
     margin: 75px 0;
-    font-size: 18px;
-    line-height: 26px;
+    font-size: 20px;
+    line-height: 32px;
   }
   .bottom-header {
-    padding-top: 35px;
-    padding-bottom: 35px;
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
   .bottom-header p {
     margin: 15px 0;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 24px;
   }
   .footer-wrapper {
